@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://code-log-theta.vercel.app">Live Demo</a>
+  <a href="https://code-log-theta.vercel.app/login">Live Demo</a>
   ·
   <a href="https://github.com/khushi1067/CodeLog">View Code</a>
 </p>
@@ -47,7 +47,7 @@ The project is fully deployed and accessible online.
 # Live Application
 
 Frontend  
-https://code-log-theta.vercel.app
+https://code-log-theta.vercel.app/login
 
 Backend API  
 https://codelog-api.onrender.com
