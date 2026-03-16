@@ -1,18 +1,5 @@
-Perfect. I’ll give you a **complete README you can copy-paste directly into `README.md` and push to GitHub**. This one is **portfolio-ready**, similar to the style you used for DevFlow but slightly cleaner.
 
-Create this file in the **root of your repo**:
 
-```
-CodeLog/README.md
-```
-
-Then paste everything below.
-
----
-
-# README.md
-
-```markdown
 <!-- PROJECT HEADER -->
 
 <br/>
@@ -105,31 +92,7 @@ https://codelog-api.onrender.com
 
 ```
 
-CodeLog
-│
-├── client
-│   ├── src
-│   │   ├── Pages
-│   │   ├── auth
-│   │   ├── lib
-│   │   └── assets
-│   │
-│   ├── index.html
-│   ├── vite.config.ts
-│   └── package.json
-│
-└── server
-├── src
-│   ├── config
-│   ├── middleware
-│   ├── models
-│   ├── routes
-│   ├── validators
-│   └── utils
-│
-└── package.json
 
-```
 
 ---
 
